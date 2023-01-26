@@ -1,0 +1,20 @@
+.card {
+background-color: #f5f5f5;
+}
+.card-title {
+text-align: center;
+}
+/* .btn-add-favorite:hover{
+ background-color: rgb(249, 246, 246);
+ color: rgb(236, 8, 8);  
+} */
+
+/* .btn-heart {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+} */
+
+#data-panel .card:hover {
+ box-shadow: 5px 5px 7px 2px lightblue;
+}
